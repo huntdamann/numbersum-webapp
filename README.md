@@ -6,7 +6,8 @@ Numbersum is a clean, intelligent, and modern application designed to make worki
 
 ## style guide 
 
-Style Guide information goes here 
+Style Guide information goes here
+![Numbersum Style Guide](./assets/styleGuide.png)
 
 ## Stack 
 
