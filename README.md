@@ -4,14 +4,14 @@
 
 Numbersum is a clean, intelligent, and modern application designed to make working with social media numbers intuitive and insightful.
 
-## style guide 
+## style guide (Version 1)
 
-Style Guide information goes here
-![Numbersum Style Guide](./assets/styleGuide.png)
 
-## Stack 
+![Numbersum Style Guide](./assets/guide_v1.png)
 
-### Front End 
+## stack
+
+### Frontend 
 
 - Next.js (React Framework) — SEO friendly, API routes for backend integration
 - Tailwind CSS / ShadCN UI — for clean, responsive UI
